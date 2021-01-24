@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 787ab3e21a4f02c09095e053c9e5fd3371fc8140 sajol.mahmud <sajol.mahmud@leapinglogic.com> 1592243411 +0600	commit (initial): 'init'
+787ab3e21a4f02c09095e053c9e5fd3371fc8140 31b4ddaa8e6429c5866af1fb41dbf895dde6a6fc sajol.mahmud <sajol.mahmud@leapinglogic.com> 1592520593 +0600	commit: vagitable requisition frontend done
+31b4ddaa8e6429c5866af1fb41dbf895dde6a6fc e275cdec93c20e150e8c80a08aec46b4821e8509 sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593020454 +0600	commit: Updated
+e275cdec93c20e150e8c80a08aec46b4821e8509 2f1b85e8d095c13e0463e235fad9aeb94713a9d7 sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593022418 +0600	commit: update in tranfer
+2f1b85e8d095c13e0463e235fad9aeb94713a9d7 d5b6bdc24f0f7f435b4575eab3f5e493f25dd81d sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593039060 +0600	commit: requisition edit
+d5b6bdc24f0f7f435b4575eab3f5e493f25dd81d fd2ab8442501db08ff9fe3627a5c754901f57fa3 sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593106627 +0600	pull origin master: Fast-forward
+fd2ab8442501db08ff9fe3627a5c754901f57fa3 bf780aa8472e7c7a94570ca166b1c04445b532bf sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593113929 +0600	commit: transfer migration change
+bf780aa8472e7c7a94570ca166b1c04445b532bf d760788c4ccd92781f83576f3018f2e604ab1a42 sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593113941 +0600	pull origin master: Merge made by the 'recursive' strategy.
+d760788c4ccd92781f83576f3018f2e604ab1a42 4ac9a01d4f06024a6055b3ed67e958ddb32a5ada sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593122277 +0600	commit: purchase creeate and index page
+4ac9a01d4f06024a6055b3ed67e958ddb32a5ada 8eaac4201268786630b778a18ad7df7a44e168be sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593196987 +0600	commit: transfer list datatable
+8eaac4201268786630b778a18ad7df7a44e168be c4c6960169b159eba1505932849c91e7ac731712 sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593197282 +0600	commit (merge): conflict resolve
+c4c6960169b159eba1505932849c91e7ac731712 3142eef7abb5f56393f4cc04f73698ae129b5f58 sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593197415 +0600	commit: conflict marge
+3142eef7abb5f56393f4cc04f73698ae129b5f58 9056a9ad2c6291b85731285672abe3648df916d0 sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593209709 +0600	commit: updated
+9056a9ad2c6291b85731285672abe3648df916d0 30dd31bcead2cc725643a96ab14858bf5717e82f sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593209731 +0600	pull origin master: Merge made by the 'recursive' strategy.
+30dd31bcead2cc725643a96ab14858bf5717e82f d5192c124dad3de746e529901f6a2a895acb869d sajol.mahmud <sajol.mahmud@leapinglogic.com> 1593210063 +0600	commit: deleted all files added by asif
